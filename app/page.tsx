@@ -1,5 +1,5 @@
 import AcmeLogo from '@/app/ui/acme-logo';
-import { lusitana } from './ui/font';
+import { lusitana } from '@/app/ui/font';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import Image from 'next/image'
